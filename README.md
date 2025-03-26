@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @Mahdjoub Abderraouf
-- 👀 I’m interested in computer science, programs, AI...
-- 🌱 I’m currently learning Web development...
-- 📫 How to reach me mahdjoub.abderraouf@gmail.com
+# 🟣 Mahdjoub Abderraouf | JavaScript Developer & Cybersecurity Student  
 
-<!---
-Mahdjoubabderraouf/Mahdjoubabderraouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 About Me  
+
+I'm a **JavaScript Developer** and **Cybersecurity Student** with a passion for **CTFs** and **secure coding**. 🏴‍☠️🔒  
+
+- 💻 **Tech Stack:** React, Node.js, Docker.  
+- 🎯 **Security Interests:** Web Security, Exploits, and Ethical Hacking.  
+- 🏆 **CTF Player:** Always up for a challenge!  
+
+## 🚀 Contact  
+
+📧 **Email:** [mahdjoub.abderraouf@gmail.com](mailto:mahdjoub.abderraouf@gmail.com)  
+🐙 **GitHub:** [github.com/MahdjoubAbderraouf](https://github.com/MahdjoubAbderraouf)  
+
+---  
+
+> *"Think like a developer, hack like a security expert."*  
